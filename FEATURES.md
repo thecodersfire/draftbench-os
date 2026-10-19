@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/draftbench-os-workspace features/draftbench-os-plan features/draftbench-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for CAD and technical drawing:
+
+1. **VSCodium** — com.vscodium.codium
+2. **GNOME Builder** — org.gnome.Builder
+3. **Wireshark** — org.wireshark.Wireshark
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

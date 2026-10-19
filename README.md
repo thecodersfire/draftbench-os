@@ -24,3 +24,11 @@ The `draftbench.svg` wallpaper is original. Draftbench OS is an independent Ubun
 
 See [FEATURES.md](FEATURES.md) for three local tools included for CAD and technical drawing.
 
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
