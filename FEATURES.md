@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for CAD and technical drawin
 3. **Wireshark** — org.wireshark.Wireshark
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for CAD and technical drawing:
+
+1. **OpenSCAD** — model parametric 3D parts in code (org.openscad.OpenSCAD)
+2. **KiCad** — design circuits and PCBs (org.kicad.KiCad)
+3. **Arduino IDE** — write and upload microcontroller sketches (cc.arduino.IDE2)
+4. **Blender** — create 3D assets and animations (org.blender.Blender)
+5. **PrusaSlicer** — prepare models for 3D printing (com.prusa3d.PrusaSlicer)
+6. **DB Browser for SQLite** — inspect SQLite databases (org.sqlitebrowser.sqlitebrowser)
+7. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+8. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+9. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+10. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.

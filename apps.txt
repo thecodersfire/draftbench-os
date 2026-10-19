@@ -4,7 +4,19 @@ org.libreoffice.LibreOffice
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 com.vscodium.codium
 org.gnome.Builder
 org.wireshark.Wireshark
+
+# Ten additional preinstalled purpose-specific applications
+org.openscad.OpenSCAD
+org.kicad.KiCad
+cc.arduino.IDE2
+org.blender.Blender
+com.prusa3d.PrusaSlicer
+org.sqlitebrowser.sqlitebrowser
+org.gnome.Boxes
+org.gnome.Calculator
+org.gnome.TextEditor
+org.gnome.Logs
